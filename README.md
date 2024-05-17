@@ -14,7 +14,7 @@ Below you will find the directory used when applying KernelSU
 
 Click on one of the options below to download the desired Kernel
 
-[WestCoast](https://web.archive.org/web/20231214201104/https://github.com/Sr-Han/WestCoast_KernelSU/releases)<br>[NetErnels](https://web.archive.org/web/20231214201104/https://github.com/Sr-Han/NetErnels_KernelSU/releases)
+[WestCoast](https://github.com/Sr-Han/kernel_xiaomi_mojito/releases)<br>[NetErnels](https://github.com/Sr-Han/kernel_xiaomi_mojito/releases)
 
 ## Contact us
 
