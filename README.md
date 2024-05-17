@@ -2,7 +2,7 @@
 
 ## To Remember
 
-The developers of each kernel are not involved in the modifications presented here. So if you're using the kernels below, remember: Only talk to someone from the Mr-Han team.<br>KernelSU is not recommended by the NetErnels developer: cyberknight777.
+The developers of each kernel are not involved in the modifications presented here. So if you're using the kernels below, remember: Only talk to someone from the Sr-Han team.<br>KernelSU is not recommended by the NetErnels developer: cyberknight777.
 
 ## Original Directories
 
